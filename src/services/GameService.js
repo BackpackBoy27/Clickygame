@@ -1,6 +1,6 @@
 import { CARD_STATUS, DECK_SIZE, CARD_SIZES } from "../constants";
 
-const BASE_URL = "https://picsum.photos";
+const BASE_URL = "https://loremflickr.com";
 const LIMIT = Math.ceil(DECK_SIZE / 2);
 
 /**

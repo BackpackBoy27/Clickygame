@@ -1,5 +1,5 @@
-export const CARD_SIZES = { width: 100, height: 200 };
-export const DECK_SIZE = 15;
+export const CARD_SIZES = { width: 150, height: 150 };
+export const DECK_SIZE = 18;
 
 export const GAME_STATUS = {
     IN_PROGRESS: "IN_PROGRESS",
