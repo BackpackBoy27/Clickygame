@@ -32,7 +32,7 @@ const App = () => {
     };
 
     return (
-        <div>
+        <div style={{backgroundColor:"#ffc0cb"}}>
             <header className={classes.header}>
                 <h1>Card Match Game</h1>
             </header>
